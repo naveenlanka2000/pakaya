@@ -68,6 +68,6 @@ class SplashPage extends StatelessWidget {
       width: 30,
       height: 30,
       color: color,
-    );
+    );// MAGE NAMA SAPUMAL
   }
 }
